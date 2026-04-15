@@ -1,15 +1,15 @@
 stores:
   - store_id: self_honten
-    name: 自社 本店
+    name: むつ本店
     type: self
-    url: https://www.carsensor.net/shop/xxxxx/xxxxxxxxx/stocklist/
+    url: https://www.carsensor.net/shop/aomori/307548001/stocklist/
 
   - store_id: competitor_a
-    name: 競合A
+    name: 十和田店
     type: competitor
-    url: https://www.carsensor.net/shop/xxxxx/xxxxxxxxx/stocklist/
+    url: https://www.carsensor.net/shop/aomori/307548002/stocklist/
 
   - store_id: competitor_b
-    name: 競合B
+    name: ダンク
     type: competitor
-    url: https://www.carsensor.net/shop/xxxxx/xxxxxxxxx/stocklist/
+    url: https://www.carsensor.net/shop/aomori/307117002/stocklist/
