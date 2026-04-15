@@ -1,0 +1,15 @@
+stores:
+  - store_id: self_honten
+    name: 自社 本店
+    type: self
+    url: https://www.carsensor.net/shop/xxxxx/xxxxxxxxx/stocklist/
+
+  - store_id: competitor_a
+    name: 競合A
+    type: competitor
+    url: https://www.carsensor.net/shop/xxxxx/xxxxxxxxx/stocklist/
+
+  - store_id: competitor_b
+    name: 競合B
+    type: competitor
+    url: https://www.carsensor.net/shop/xxxxx/xxxxxxxxx/stocklist/
